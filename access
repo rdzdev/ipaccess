@@ -2,12 +2,9 @@
 ### linode  1000  Lifetime  172.104.177.121 V1
 ### ipsomy1 1001  Lifetime  58.84.42.41 V1
 ### myklnet4  1002  Lifetime  103.123.238.77 V1
-### IPS1  1003  lifetime  103.21.182.71 V1
 ### myklnet5  1004  LIFETIME  103.123.239.9 V1
-### testje  1005  LIFETIME  170.187.229.116 V1
-### IPS2  1006  LIFETIME  14.102.146.227  V1
 ### ipsomy2 1007  Lifetime  58.84.43.155  V1
 ### DO1 1008  Lifetime  159.223.48.101  V1
 ### DO2 1009  Lifetime  159.223.77.57 V1
 ### DO3 1009  Lifetime  159.223.44.110  V1
-### myklnetian Lifetime 103.123.239.162 V1
+### myklnetian 1010 Lifetime 103.123.239.162 V1
